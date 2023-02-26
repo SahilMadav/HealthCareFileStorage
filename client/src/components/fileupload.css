@@ -1,0 +1,109 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+/* .upload-file {
+    margin-top: 40%;
+    font-size: 30px;
+  } */
+  /* #file-upload::file-selector-button {
+    margin-top: 35px;
+    margin-left: 10px;
+    background: transparent;
+    color: white;
+  
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border: 0.5px solid white;
+  }
+  #file-upload::file-selector-button:hover {
+    background-color: white;
+    color: #303530;
+    transition-delay: 50ms;
+    transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0 12px 16px 0 rgba(247, 243, 243, 0.24),
+      0 17px 50px 0 rgba(253, 253, 253, 0.19);
+  }
+  .upload-btn {
+    margin-top: 40px;
+    margin-left: 2%;
+    border-radius: 15px;
+    background: transparent;
+    border: 0.5px solid white;
+    color: white;
+    transition-duration: 0.4s;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .upload-btn:hover {
+    background-color: white;
+    color: #303530;
+    font-weight: bolder;
+    transition-delay: 50ms;
+    transition-timing-function: ease-in;
+    box-shadow: 0 12px 16px 0 rgba(247, 243, 243, 0.24),
+      0 17px 50px 0 rgba(253, 253, 253, 0.19);
+  }
+
+  .upload {
+    background: rgba(253, 23, 253, 0.3);
+    background-color: #303530;
+    height: 15%;
+    width: 45%;
+    margin-left: 70%;
+    margin-top: -20%;
+    border: 1px solid rgba(255, 255, 255, 0.287);
+    border-radius: 131px;
+  }  */
+  /* .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    padding-right: 61px;
+  }
+  .File {
+  height: 10px;
+
+  flex: 5;
+} */ 
+
+*{
+ margin: 0;
+ padding: 0;  
+}
+
+.File{
+  padding: 10px;
+  font-size: 28px;
+  /* border: 1px solid black; */
+  width: 90.3vw;
+}
+.upload-file{
+  margin-left: 45%;
+  background: transparent;
+  border: 2px solid black;
+  width: 10%;
+  font-size: 20px;
+
+}
+
+#file-upload{
+    margin-left: 41%;
+    width: 30%;
+    padding: 20px;
+}
+.upload-btn{
+    margin-left: 42%;
+      width: 16%;
+
+}

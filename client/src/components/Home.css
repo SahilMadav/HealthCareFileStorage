@@ -1,0 +1,150 @@
+*{
+  /* height: 300px; */
+}
+.web-display {
+  margin-top: 0;
+  padding: 0;
+}
+.infoAcc {
+  /* color: black; */
+  /* font-size: 16px; */
+  font-weight: bold;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: orangered;
+}
+
+.Parent {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.child {
+  color: rgb(85, 51, 91);
+  /* height: 92.2vh; */
+  flex: 3;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+}
+.content-info {
+  color: rgb(71, 47, 71);
+  padding-top: 1%;
+  padding-left: 15%;
+  font-size: 20px;
+}
+.img-content-new{
+    padding-top: 0;
+      padding-left: 45%;
+
+
+}
+.girl img{
+  width: 50vw;
+  height: 60vh;
+
+}
+
+/* .footer{
+  background: #000;
+  width: 100%;
+} */
+.Information {
+  height: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 4;
+  width: 112%;
+}
+/* .File {
+  height: 10px;
+
+  flex: 5;
+} */
+/* .upload {
+  background: rgba(253, 23, 253, 0.3);
+  background-color: #303530;
+  height: 15%;
+  width: 45%;
+  margin-left: 70%;
+  margin-top: -20%;
+  border: 1px solid rgba(255, 255, 255, 0.287);
+  border-radius: 131px;
+} */ */
+/* .navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  padding-right: 61px;
+}
+/* .upload-file {
+  margin-top: 5px;
+  font-size: 30px;
+}
+#file-upload::file-selector-button {
+  margin-top: 35px;
+  margin-left: 20px;
+  background: transparent;
+  color: white;
+
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border: 0.5px solid white;
+}
+#file-upload::file-selector-button:hover {
+  background-color: white;
+  color: #303530;
+  transition-delay: 50ms;
+  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0 12px 16px 0 rgba(247, 243, 243, 0.24),
+    0 17px 50px 0 rgba(253, 253, 253, 0.19);
+}
+.upload-btn {
+  margin-top: 40px;
+  margin-left: 25%;
+  border-radius: 15px;
+  background: transparent; /* Green */
+  /* border: 0.5px solid white;
+  color: white;
+  transition-duration: 0.4s;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+} */
+.upload-btn:hover {
+  background-color: white;
+  color: #303530;
+  font-weight: bolder;
+  transition-delay: 50ms;
+  transition-timing-function: ease-in;
+  box-shadow: 0 12px 16px 0 rgba(247, 243, 243, 0.24),
+    0 17px 50px 0 rgba(253, 253, 253, 0.19);
+} */
+.img {
+  /* height: 92.2vh;
+  flex: 3; */
+}
+.Img-eth {
+  /* margin-top: 1%;
+  margin-left: 10%;
+  height: 92%; */
+}
+
+.footer {
+  /* background: #d397c2; */
+  background:  linear-gradient(90deg, #EC0CFF 2.4%, rgba(173, 69, 182, 0.09) 92.67%);
+  color: rgb(89, 6, 88);
+  width: 100vw;
+  height: 20%;
+  text-align: center;
+  font-size: 28px;
+}
